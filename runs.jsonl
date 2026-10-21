@@ -1,0 +1,8 @@
+{"ts":"2026-10-20T19:05:00+08:00","task":"rent","result":"ok","backfill":true,"src":"rent-guandu/seen.json last_check + scrape.json mtime"}
+{"ts":"2026-10-21T06:03:00+08:00","task":"tqqq","result":"alert","backfill":true,"src":"tqqq-monitor/watch.json last_alert_time"}
+{"ts":"2026-10-21T10:21:00+08:00","task":"tqqq","result":"ok","backfill":true,"src":"tqqq-monitor/watch.json last_checked"}
+{"ts":"2026-10-21T10:24:00+08:00","task":"usd","result":"ok","backfill":true,"src":"ctbc-rate/watch.json last_checked"}
+{"ts":"2026-10-21T10:25:53+08:00","task":"tqqq","result":"ok"}
+{"ts":"2026-10-21T10:26:50+08:00","task":"tqqq","result":"ok"}
+{"ts":"2026-10-21T10:30:10+08:00","task":"tqqq","result":"ok"}
+{"ts":"2026-10-21T10:33:04+08:00","task":"tqqq","result":"ok"}

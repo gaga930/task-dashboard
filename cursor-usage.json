@@ -20,5 +20,64 @@
   "onDemandLimitCents": 5000,
   "onDemandUsedCents": 1623,
   "onDemandRemainingCents": 3377,
-  "limitType": "user"
+  "limitType": "user",
+  "dailySpendFetchedAt": "2026-10-21T11:23:22+08:00",
+  "dailySpendUsd": [
+    {
+      "day": "10/08",
+      "usd": 110.94
+    },
+    {
+      "day": "10/09",
+      "usd": 17.04
+    },
+    {
+      "day": "10/10",
+      "usd": 10.31
+    },
+    {
+      "day": "10/11",
+      "usd": 2.12
+    },
+    {
+      "day": "10/12",
+      "usd": 19.26
+    },
+    {
+      "day": "10/13",
+      "usd": 24.22
+    },
+    {
+      "day": "10/14",
+      "usd": 38.52
+    },
+    {
+      "day": "10/15",
+      "usd": 39.8
+    },
+    {
+      "day": "10/16",
+      "usd": 48.3
+    },
+    {
+      "day": "10/17",
+      "usd": 37.0
+    },
+    {
+      "day": "10/18",
+      "usd": 0.26
+    },
+    {
+      "day": "10/19",
+      "usd": 38.07
+    },
+    {
+      "day": "10/20",
+      "usd": 35.82
+    },
+    {
+      "day": "10/21",
+      "usd": 20.99
+    }
+  ]
 }

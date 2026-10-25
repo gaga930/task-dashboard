@@ -21,13 +21,8 @@
   "onDemandUsedCents": 1623,
   "onDemandRemainingCents": 3377,
   "limitType": "user",
-  "dailySpendFetchedAt": "2026-10-24T08:00:02+08:00",
+  "dailySpendFetchedAt": "2026-10-25T08:00:01+08:00",
   "dailySpendUsd": [
-    {
-      "date": "2026-10-11",
-      "day": "10/11",
-      "usd": 2.12
-    },
     {
       "date": "2026-10-12",
       "day": "10/12",
@@ -91,9 +86,14 @@
     {
       "date": "2026-10-24",
       "day": "10/24",
-      "usd": 9.44
+      "usd": 35.97
+    },
+    {
+      "date": "2026-10-25",
+      "day": "10/25",
+      "usd": 5.31
     }
   ],
-  "yesterday": "2026-10-23",
-  "yesterdayUsd": 48.73
+  "yesterday": "2026-10-24",
+  "yesterdayUsd": 35.97
 }

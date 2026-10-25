@@ -2408,3 +2408,15 @@
 {"ts":"2026-10-26T05:53:10+08:00","task":"btc","result":"ok"}
 {"ts":"2026-10-26T05:55:55+08:00","task":"btc","result":"ok"}
 {"ts":"2026-10-26T06:00:00+08:00","task":"tqqq","result":"skip"}
+{"ts":"2026-10-26T06:00:39+08:00","task":"btc","result":"ok"}
+{"ts":"2026-10-26T06:06:52+08:00","task":"tqqq","result":"skip"}
+{"ts":"2026-10-26T06:07:52+08:00","task":"tqqq","result":"skip"}
+{"ts":"2026-10-26T06:09:10+08:00","task":"btc","result":"ok"}
+{"ts":"2026-10-26T06:12:28+08:00","task":"tqqq","result":"skip"}
+{"ts":"2026-10-26T06:12:54+08:00","task":"btc","result":"ok"}
+{"ts":"2026-10-26T06:15:13+08:00","task":"btc","result":"ok"}
+{"ts":"2026-10-26T06:20:30+08:00","task":"tqqq","result":"skip"}
+{"ts":"2026-10-26T06:22:42+08:00","task":"tqqq","result":"skip"}
+{"ts":"2026-10-26T06:24:18+08:00","task":"btc","result":"ok"}
+{"ts":"2026-10-26T06:28:29+08:00","task":"btc","result":"ok"}
+{"ts":"2026-10-26T06:31:42+08:00","task":"tqqq","result":"skip"}
